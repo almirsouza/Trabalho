@@ -1,2 +1,1 @@
-# Trabalho
-Página web estática 
+Página web estatica para trabalho de faculdade
