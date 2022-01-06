@@ -1,2 +1,2 @@
 # Trabalho
-página web estática 
+Página web estática 
